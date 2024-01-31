@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cdwhk-homework3"
+version = "0.1.0"
+description = ""
+authors = ["corvin <corvin.kraft@outlook.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.0.0"
+flask = "^3.0.1"
+flask-sqlalchemy = "^3.1.1"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
