@@ -30,3 +30,5 @@ A
 tests/__init__.py,8\e\8e911f6351f3fa0cd30fc10a701473fbb56707e6
 J
 .github/workflows/main.yml,c\7\c778226b6c4c0fb51cf7942c8ee1f3d9fc1249d0
+<
+coverage.xml,c\4\c45a48339f057a507b3872e5fc9d0c53a03231eb
