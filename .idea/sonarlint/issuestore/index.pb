@@ -24,3 +24,5 @@ J
 sonar-project.properties  ,1\c\1c9b3eb339802d76be90b9ba403eb10b2e681db8
 H
 sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
+A
+tests/test_app.py,5\d\5d67b839567bfb64797a0f0a7e916f379a636b5c
