@@ -26,3 +26,7 @@ H
 sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
 A
 tests/test_app.py,5\d\5d67b839567bfb64797a0f0a7e916f379a636b5c
+A
+tests/__init__.py,8\e\8e911f6351f3fa0cd30fc10a701473fbb56707e6
+J
+.github/workflows/main.yml,c\7\c778226b6c4c0fb51cf7942c8ee1f3d9fc1249d0
